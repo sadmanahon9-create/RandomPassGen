@@ -1,7 +1,24 @@
+## Introduction-
 Hi there again!
 So like the name says, its dedicated to generate passwords for you, completely random, set your range, varities etc. Also not complicated to use.
-New additions- Dark/Light modes based on user device setup, Copy option.
-Heres the website link if you wanna see.
-https://ranpassgennerator.netlify.app/
+
+## Features-
+Custom Password ranging from 4 upto 32 letters.
+Cheakboxes to set your preferances eg. Upper/Lower case letters, Numbers And symbols to make password stronger.
+
+## New additions- 
+Dark/Light modes based on user device setup.
+Copy icon added for direct and simple coping passwords.
+
+## Live demo-
+Heres the website link if you wanna see-
+[Click here to visit](https://ranpassgennerator.netlify.app/)
+
+## Things used-
+HTML
+JS
+TailWind
+
+## Add. infos-
 Performace= 92/99 (mobile/desktop)- By PageSpeed Insights
 for contact- sadmanahon9@gmail.com
